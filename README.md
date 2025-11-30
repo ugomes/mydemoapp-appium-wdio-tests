@@ -5,7 +5,7 @@
 Este projeto implementa testes automatizados para a aplicação **MyDemoApp** (Android) utilizando **WebdriverIO** e **Appium**. O projeto segue o padrão de arquitetura **Page Object Model (POM)** para melhor manutenibilidade e escalabilidade.
 
 ### Objetivo Principal
-Automatizar o fluxo de compra de uma mochila na aplicação MyDemoApp, validando cada etapa do processo com testes estruturados e relatórios detalhados.
+Automatizar o fluxo de compra de uma mochila na aplicação MyDemoApp, validando cada etapa do processo com testes estruturados .
 
 ---
 
